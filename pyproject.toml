@@ -13,7 +13,7 @@ uvicorn = "^0.34.0"
 
 [build-system]
 requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+build-backend = "poetry.core.masonry.api
 
 [tool.poetry.scripts]
 dev="todo.main:start"
